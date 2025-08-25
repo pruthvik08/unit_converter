@@ -6,14 +6,12 @@ Tools and Technology Used
 - Tkinter 
 - ttk 
 - messagebox 
-Project Information
-The project allows the user to:
+# The project allows the user to:
 1. Enter a numeric value.
 2. Select a category (Length, Weight, Time, Temperature).
 3. Choose From Unit and To Unit.
 4. Perform conversion and display result instantly.
-Advantages 
-Advantages:
+ # Advantages 
 - Easy to use graphical interface.
 - Lightweight and works offline.
 - Supports multiple unit categories.
